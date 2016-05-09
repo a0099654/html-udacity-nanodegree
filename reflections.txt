@@ -1,0 +1,15 @@
+Name: Stella Widyasari
+Career Aspiration: A great front end developer
+
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+1. I have learnt about the resources that i could go to in order to find the information about the html tag. i’ve learnt about <strike><figure><figcaption>
+2. I didn’t find it hard as i have a little background about html element and stuffs
+3. Nope, not difficult
+4. Find the correct resources and figure out what i need to achieve it
